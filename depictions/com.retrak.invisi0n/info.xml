@@ -12,29 +12,19 @@
 	</dependencies>
 	<shortDescription>This is an invisible dock. Firmware should be greater than 10.2!</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>This is an invisible dock.</description>
+		<description>It will be updated with a PreferenceLoader in a near future.</description>
 		<description><![CDATA[
 		You can also have<br/> 
-		a multi-line item.
+		a screenshot.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
+			<description>This is what it looks like. After installing :)</description>
+			<image>cydia.png</image>
+		
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
