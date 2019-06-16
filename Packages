@@ -1,0 +1,14 @@
+Package: com.RetRak.InviSi0n
+Name: InviSi0n
+Version: 1.0.0
+Size: 7
+Architecture: iphoneos-arm
+Description: An invisible dock for ios 12
+Maintainer: Gianni <gmarcogliesesillery@gmail.com>
+Author: (Gianni) <gmarcogliesesillery@gmail.com>
+Section: Tweaks
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//com.retrak.invisi0n_1.0.0-6+debug_iphoneos-arm.deb
+
