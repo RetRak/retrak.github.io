@@ -24,7 +24,18 @@
 		<screenshot>
 			<description>This is what it looks like. After installing :)</description>
 			<image>cydia.png</image>
-		
+		</screenshot>		
+		<screenshot>
+			<description>This is what it looks like. After installing :)</description>
+			<image>cydia.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It's in beta form</change>
+		<change>New updates on my Twitter</change>
+	</changelog>
+
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
